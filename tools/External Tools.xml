@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="node_inspector" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="cmd.exe" />
+      <option name="PARAMETERS" value="/C &quot;start C:\Users\book\AppData\Roaming\npm\node-inspector.cmd&quot;" />
+      <option name="WORKING_DIRECTORY" value="$Projectpath$" />
+    </exec>
+  </tool>
+</toolSet>
