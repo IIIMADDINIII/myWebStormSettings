@@ -1,0 +1,5 @@
+<application>
+  <component name="NodeJSRemoteInterpreters">
+    <interpreter node-remote-interpreter="ssh://maddin@YouBuntToo:22/usr/bin/node" HOST="YouBuntToo" PORT="22" USERNAME="maddin" PRIVATE_KEY_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/node" HELPERS_PATH="/home/maddin/.webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" VERSION="9.3.0" />
+  </component>
+</application>
