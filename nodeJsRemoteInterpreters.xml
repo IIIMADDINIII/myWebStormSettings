@@ -1,5 +1,5 @@
 <application>
   <component name="NodeJSRemoteInterpreters">
-    <interpreter node-remote-interpreter="ssh://maddin@YouBuntToo:22/usr/bin/node" HOST="YouBuntToo" PORT="22" USERNAME="maddin" PRIVATE_KEY_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/node" HELPERS_PATH="/home/maddin/.webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" VERSION="9.3.0" />
+    <interpreter node-remote-interpreter="sftp://maddin@YouBuntToo:22/usr/bin/node" WEB_SERVER_CONFIG_ID="0d5219b8-a868-401f-ae24-cda4405b7199" WEB_SERVER_CONFIG_NAME="Copy of project-level server 'Copy of project-level server 'YouBuntToo''" WEB_SERVER_CREDENTIALS_ID="sftp://maddin@YouBuntToo:22" INTERPRETER_PATH="/usr/bin/node" HELPERS_PATH="/home/maddin/.webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" VERSION="9.3.0" />
   </component>
 </application>

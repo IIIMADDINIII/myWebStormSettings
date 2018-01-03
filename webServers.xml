@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0d5219b8-a868-401f-ae24-cda4405b7199" name="YouBuntToo" url="http://YouBuntToo">
+        <fileTransfer host="YouBuntToo" port="22" rootFolder="/home/maddin" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
